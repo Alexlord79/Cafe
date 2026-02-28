@@ -23,5 +23,9 @@
         <item>Espresso</item>
         <item>Latte</item>
     </array>
-    <string name="make_order">Make orde</string>
+    <string name="make_order">Make order</string>
+    <string name="name">Name:</string>
+    <string name="dring">Drink:</string>
+    <string name="drink_type">Drink type:</string>
+    <string name="additives_label">Additives:</string>
 </resources>
