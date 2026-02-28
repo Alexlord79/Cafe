@@ -28,4 +28,5 @@
     <string name="dring">Drink:</string>
     <string name="drink_type">Drink type:</string>
     <string name="additives_label">Additives:</string>
+    <string name="error_fields_empty">Please fill in all the fields!</string>
 </resources>
