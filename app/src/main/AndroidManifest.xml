@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Cafe">
         <activity
+            android:name=".OrderDetailActivity"
+            android:exported="false" />
+        <activity
             android:name=".MakeOrderActivity"
             android:exported="true" />
         <activity
